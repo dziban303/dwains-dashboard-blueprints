@@ -2,10 +2,10 @@ blueprint:
   custom_cards:
   - mushroom-template-card
   - mini-graph-card
-  description: Pi-Hole page by Bourner
-  name: Pi-Hole Page Blueprint
+  description: Pi-Hole page by Dziban
+  name: Pi-Hole - Primary
   type: page
-  version: '1.0'
+  version: '1.1'
 card:
   cards:
   - cards: []
