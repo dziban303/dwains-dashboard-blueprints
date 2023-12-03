@@ -10,7 +10,7 @@ This Blueprint is a blueprint version of Speetest page created by [eelcob](https
 - Copy the content of the blueprint file `blueprint.yaml` into the Blueprint YAML code.
 
  ## Fields to define.
- None, the inputs were broken and caused the blueprint not to work. Set time period in the yaml, currently set to 168 hours (one week). Chart colors and their values can be changed in the yaml (see Changelog).
+ None, the inputs were broken and caused the blueprint not to work. Set time period in the yaml, currently set to 168 hours (one week). Chart colors and their values can be changed in the yaml (see [Changelog\#1.1.3](https://github.com/dziban303/dwains-dashboard-blueprints/blob/main/page-blueprints/SpeedTests/README.md#113)).
 
 ### Screenshots
 **Light theme:**<br>
